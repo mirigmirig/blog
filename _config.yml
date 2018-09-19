@@ -4,7 +4,8 @@ permalink:           pretty
 # Setup
 title:               My Nice Blog
 tagline:             The Jekyll Butler
-url:                 https://mirigmirig.github.io
+home:                https://mirigmirig.github.io
+url:                 https://mirigmirig.github.io/blog
 paginate:            1
 baseurl:             /blog
 
