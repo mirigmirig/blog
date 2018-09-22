@@ -6,7 +6,7 @@ title:               My Nice Blog
 tagline:             The Jekyll Butler
 home:                https://mirigmirig.github.io
 url:                 https://mirigmirig.github.io/blog
-paginate:            1
+paginate:            5
 baseurl:             /blog
 
 # Assets
