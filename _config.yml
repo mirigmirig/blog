@@ -2,12 +2,14 @@
 permalink:           pretty
 
 # Setup
-title:               My Nice Blog
-tagline:             The Jekyll Butler
+title:               "\"You know, I've learned something today...\""
+tagline:             ""
 home:                https://mirigmirig.github.io
 url:                 https://mirigmirig.github.io/blog
 paginate:            5
 baseurl:             /blog
+excerpt_separator: "<!--read more-->"
+
 
 # Assets
 #
